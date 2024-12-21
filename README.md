@@ -1,2 +1,2 @@
 # CodingTest
-코딩테스트 정리
+Wiki 에 정리
