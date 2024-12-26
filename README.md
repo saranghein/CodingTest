@@ -1,2 +1,1 @@
-# CodingTest
-Wiki 에 정리
+### [ ↗️ Wiki ](https://github.com/saranghein/CodingTest/wiki)
